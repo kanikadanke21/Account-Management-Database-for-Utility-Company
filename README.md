@@ -1,2 +1,2 @@
 # Account-Management-Database-for-Utility-Company
-PL/SQL code for various features of a BGE company.
+PL/SQL code for various features for a BGE company.
