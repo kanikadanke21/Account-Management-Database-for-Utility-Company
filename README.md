@@ -1,2 +1,2 @@
 # Account-Management-Database-for-Utility-Company
-2nd Repository
+PL/SQL code for various features of a BGE company.
